@@ -1,5 +1,5 @@
-# Learn About Dinosaurs Top 5
-Application to learn about the top 5 dinosaurs.
+# Learn About Dinosaurs
+Application to learn about dinosaurs.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
