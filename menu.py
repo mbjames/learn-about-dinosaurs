@@ -1,5 +1,5 @@
 def main_menu():
-    print('\n Please select a dinosaur to learn more.')
+    print('\n Please select a dinosaur to learn more. (1 - 15)')
     print(' Type (q) to exit.')
     print(' 1. Triceratops')
     print(' 2. Stegosaurus')
